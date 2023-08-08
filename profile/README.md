@@ -33,7 +33,7 @@ OSCC IP Project contains a bundle of IPs which aim to improve development experi
 * GPU
 
 ## License
-All of the TreeCore IP codes are release under the [GPL-3.0 License](LICENSE).
+All of the IPs codes are release under the [GPL-3.0 License](LICENSE).
 
 ## Help us to improve the project
 You can issue bugs, pull requests, new features and modification suggestions freely. Your feedbacks could help us ensure a bright future for this project. We value and treasure every issue or contribution, big or small. 😄
