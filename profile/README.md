@@ -10,7 +10,7 @@ The IPs List:
 | :---: | :---: |
 | System     | uart, spi-flash, amba bus, dma, trace, jtag |
 | Peripheral | timer, rtc, watchdog, pwm, gpio, ps/2, spi, i2c, i2s, sdio |
-| Memory     | on-chip-sram, chiplink, sdram, ddr1, ddr2 |
+| Memory     | sram, chiplink, sdram, ddr1, ddr2 |
 | Graphics   | vga, hdmi, mipi-dsi, gpu |
 | Communication | usb, Ethernet, PCIe |
 
