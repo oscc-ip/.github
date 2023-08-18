@@ -8,11 +8,11 @@ The IPs List:
 
 | Type | List |
 | :---: | :---: |
-| System     | uart, spi-flash, amba bus, dma, trace, jtag |
+| System     | uart, spi-flash, amba bus, dma, trace, jtag, core |
 | Peripheral | timer, rtc, watchdog, pwm, gpio, ps/2, spi, i2c, i2s, sdio |
-| Memory     | sram, chiplink, sdram, ddr1, ddr2 |
+| Memory     | sram, sdram, psram, ddr1, ddr2, chiplink |
 | Graphics   | vga, hdmi, mipi-dsi, gpu |
-| Communication | usb, Ethernet, PCIe |
+| Communication | usb, ethernet, pcie |
 
 ## License
 All of the IPs codes are release under the [GPL-3.0 License](LICENSE).
