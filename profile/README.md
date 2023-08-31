@@ -16,7 +16,7 @@ The IPs List:
 
 ## Template
 
-## Style&Language
+## Style
 
 ## License
 All of the IPs codes are release under the [MulanPSL2](http://license.coscl.org.cn/MulanPSL2).
