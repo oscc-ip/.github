@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center">OSCC IP: <b>O</b>pen <b>S</b>ource <b>C</b>hip <b>C</b>ommunity IP project provide Accurate-cycle, Event-driven Simulation Model and  Verified IP</h2>
+    <h2 align="center">OSCC IP: A series of Verified HDL IP with Accurate-cycle, Event-driven Simulation Model</h2>
 </p>
 <p align="center">
     <a href="../template/LICENSE">
