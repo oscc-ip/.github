@@ -1,8 +1,29 @@
+<p align="center">
+    <h2 align="center">OSCC IP: <b>O</b>pen <b>S</b>ource <b>C</b>hip <b>C</b>ommunity IP project provide Accurate-cycle, Event-driven Simulation Model and  Verified IP</h2>
+</p>
+<p align="center">
+    <a href="../template/LICENSE">
+      <img src="https://img.shields.io/badge/license-MulanPSL2-brightgreen?style=flat-square">
+    </a>
+    <a href="https://github.com/cocotb/cocotb">
+      <img src="https://img.shields.io/badge/toolchain-iverilog%20vcs%20cocotb-red?style=flat-square">
+    </a>
+    <a href="../template/style.md">
+      <img src="https://img.shields.io/badge/code%20style-verible-brightgreen?style=flat-square">
+    </a>
+    <a href="../template/style.md">
+      <img src="https://img.shields.io/badge/static%20checker-verible-red?style=flat-square">
+    </a>
+    <a href="../template/CONTRIBUTING.md">
+      <img src="https://img.shields.io/badge/contribution-welcome-brightgreen?style=flat-square">
+    </a>
+</p>
+
 ## Hi, OSCC IP Project 👋
 
 OSCC IP Project contains a bundle of IPs which aim to improve development experience of processor and SoC design. Now it mainly focus on frontend and verification field. We hope it can be integrated by other components to build a common workflow for agile hardware development from frontend to backend one day.
 
-## Overview
+## Motivation
 
 The IPs List:
 
@@ -15,11 +36,25 @@ The IPs List:
 | Communication | usb, ethernet, pcie |
 
 ## Template
+refer to the [template](../template).
 
 ## Style
+refer to the [style.md](../template/style.md).
+
+## Contribution
+If you want to contribute to this project, be sure to review the [guidelines](../template/CONTRIBUTING.md). This is an open project and contributions and collaborations are always welcome!! This project adheres to OSCC IP's [code_of_conduct](../template/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+
+we use GitHub issues for tracking requests and bugs, so please direct specific questions to [issues panel](https://github.com/oscc-ip/.github/issues).
+
+The OSCC IP project strives to abide by generally accepted best practices in open-source software development, you can issue bugs, pull requests, new features and modification suggestions freely. Your feedbacks could help us ensure a bright future for this project. We value and treasure every issue or contribution, big or small. 😄
 
 ## License
 All of the IPs codes are release under the [MulanPSL2](http://license.coscl.org.cn/MulanPSL2).
 
-## Help us to improve the project
-You can issue bugs, pull requests, new features and modification suggestions freely. Your feedbacks could help us ensure a bright future for this project. We value and treasure every issue or contribution, big or small. 😄
+
+## Acknowledgement
+
+## Reference
+
+
+
