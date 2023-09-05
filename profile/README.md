@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center">OSCC IP: A series of Verified HDL IP with Accurate-cycle, Event-driven Simulation Model</h2>
+    <h2 align="center">OSCC IP: A series of Verified HDL IP with Accurate-cycle and Event-driven Simulation Model</h2>
 </p>
 <p align="center">
     <a href="https://github.com/oscc-ip/.github/tree/main/template/LICENSE">
