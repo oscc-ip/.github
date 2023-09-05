@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center">OSCC IP: A series of Verified HDL IP with Accurate-cycle and Event-driven Simulation Model</h2>
+    <h2 align="center">OSCC IP: A series of Verified HDL IP with Accurate-cycle and Event-driven Model</h2>
 </p>
 <p align="center">
     <a href="https://github.com/oscc-ip/.github/tree/main/template/LICENSE">
@@ -49,8 +49,7 @@ we use GitHub issues for tracking requests and bugs, so please direct specific q
 The OSCC IP project strives to abide by generally accepted best practices in open-source software development, you can issue bugs, pull requests, new features and modification suggestions freely. Your feedbacks could help us ensure a bright future for this project. We value and treasure every issue or contribution, big or small. 😄
 
 ## License
-All of the IPs codes are release under the [MulanPSL2](http://license.coscl.org.cn/MulanPSL2).
-
+All of the IPs codes are redistributed or released under the OSI Approved LICENSE [MulanPSL2](https://opensource.org/license/mulanpsl-2-0/).
 
 ## Acknowledgement
 
