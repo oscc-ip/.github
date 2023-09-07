@@ -36,7 +36,10 @@ The IPs List:
 | Communication | usb, ethernet, pcie |
 
 ## Template
-refer to the [template](https://github.com/oscc-ip/template/blob/main).
+Refer to the [template repo](https://github.com/oscc-ip/template/blob/main). If you want to create a new ip repo, You need to:
+
+* Use this repository template to create a new repo
+* Update the content `[IP NAME]` in `header` file and remove the `header` file.
 
 ## Style
 refer to the [style.md](https://github.com/oscc-ip/template/blob/main/style.md).
