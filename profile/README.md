@@ -2,19 +2,19 @@
     <h2 align="center">OSCC IP: A series of Verified HDL IP with Accurate-cycle and Event-driven Model</h2>
 </p>
 <p align="center">
-    <a href="https://github.com/oscc-ip/.github/tree/main/template/LICENSE">
+    <a href="https://github.com/oscc-ip/template/blob/main/LICENSE">
       <img src="https://img.shields.io/badge/license-MulanPSL2-brightgreen?style=flat-square">
     </a>
     <a href="https://github.com/cocotb/cocotb">
       <img src="https://img.shields.io/badge/toolchain-iverilog%20vcs%20cocotb-red?style=flat-square">
     </a>
-    <a href="https://github.com/oscc-ip/.github/tree/main/template/style.md">
+    <a href="https://github.com/oscc-ip/template/blob/main/style.md">
       <img src="https://img.shields.io/badge/code%20style-verible-brightgreen?style=flat-square">
     </a>
-    <a href="https://github.com/oscc-ip/.github/tree/main/template/style.md">
+    <a href="https://github.com/oscc-ip/template/blob/main/style.md">
       <img src="https://img.shields.io/badge/static%20checker-verible-red?style=flat-square">
     </a>
-    <a href="https://github.com/oscc-ip/.github/tree/main/template/CONTRIBUTING.md">
+    <a href="https://github.com/oscc-ip/template/blob/main/CONTRIBUTING.md">
       <img src="https://img.shields.io/badge/contribution-welcome-brightgreen?style=flat-square">
     </a>
 </p>
@@ -36,13 +36,13 @@ The IPs List:
 | Communication | usb, ethernet, pcie |
 
 ## Template
-refer to the [template](https://github.com/oscc-ip/.github/tree/main/template).
+refer to the [template](https://github.com/oscc-ip/template/blob/main).
 
 ## Style
-refer to the [style.md](https://github.com/oscc-ip/.github/tree/main/template/style.md).
+refer to the [style.md](https://github.com/oscc-ip/template/blob/main/style.md).
 
 ## Contribution
-If you want to contribute to this project, be sure to review the [guidelines](https://github.com/oscc-ip/.github/tree/main/template/CONTRIBUTING.md). This is an open project and contributions and collaborations are always welcome!! This project adheres to OSCC IP's [code_of_conduct](https://github.com/oscc-ip/.github/tree/main/template/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+If you want to contribute to this project, be sure to review the [guidelines](https://github.com/oscc-ip/template/blob/main/CONTRIBUTING.md). This is an open project and contributions and collaborations are always welcome!! This project adheres to OSCC IP's [code_of_conduct](https://github.com/oscc-ip/template/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
 we use GitHub issues for tracking requests and bugs, so please direct specific questions to [issues panel](https://github.com/oscc-ip/.github/issues).
 
