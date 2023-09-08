@@ -34,6 +34,7 @@ The IPs List:
 | Memory     | sram, sdram, psram, nand-flash, ddr1, ddr2, ddr3, chiplink |
 | Graphics   | vga, hdmi, mipi-dsi, video engine, gpu |
 | Communication | usb, ethernet, pcie |
+| Extern | foc, cnn |
 
 ## Template
 Refer to the [template repo](https://github.com/oscc-ip/template/blob/main). If you want to create a new ip repo, You need to:
