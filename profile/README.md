@@ -36,6 +36,9 @@ The IPs List:
 | Communication | usb, ethernet, pcie |
 | Application | crc, aes, foc, cnn |
 
+<details>
+  <summary>More Info</summary>
+
 ## Template
 Refer to the [template repo](https://github.com/oscc-ip/template/blob/main). If you want to create a new ip repo, You need to:
 
@@ -58,6 +61,5 @@ All of the IPs codes are redistributed or released under the OSI Approved LICENS
 ## Acknowledgement
 
 ## Reference
-
-
-
+    
+</details>
