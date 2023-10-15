@@ -30,7 +30,7 @@ The IPs List:
 | Type | List |
 | :---: | :---: |
 | System     | uart, spi-flash, amba bus, dma, trace, clint, plic, jtag, rcu, pmu, core, archinfo |
-| Peripheral | timer, rtc, watchdog, pwm, gpio, ps2, spi, qspi, octspi, i2c, i2s, sdio |
+| Peripheral | timer, rtc, wdg, pwm, gpio, ps2, spi, qspi, octspi, i2c, i2s, sdio |
 | Memory     | sram, sdram, psram, nand-flash, ddr1, ddr2, ddr3, chiplink |
 | Graphics   | vga, hdmi, mipi-dsi, video engine, gpu |
 | Communication | usb, ethernet, pcie |
