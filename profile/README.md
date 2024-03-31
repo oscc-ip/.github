@@ -25,21 +25,19 @@ OSCC IP Project contains a bundle of IPs which aim to improve development experi
 
 ## Motivation
 
-The IPs List:
-
-| Type | List |
+<!-- | Type | List |
 | :---: | :---: |
 | System     | uart, spi-flash, amba bus, dma, trace, clint, plic, jtag, rcu, pmu, core, archinfo |
 | Peripheral | timer, rtc, wdg, pwm, gpio, ps2, spi, qspi, octspi, i2c, i2s, sdio |
 | Memory     | sram, sdram, psram, nand-flash, ddr1, ddr2, ddr3, chiplink |
 | Graphics   | vga, hdmi, lcd, mipi-dsi, video-engine, gpu |
 | Communication | usb, ethernet, pcie |
-| Application | crc, aes, sha, rsa, rng, foc, cnn, isp |
+| Application | crc, aes, sha, rsa, rng, foc, cnn, isp | -->
 
-Developemnt State:
-| IP       | STATE |
-| :---:    | :---: |
-| ARCHINFO |  <img src="https://img.shields.io/badge/RTL%20dev-done-green?style=flat-square"> <img src="https://img.shields.io/badge/VCS%20sim-done-green?style=flat-square">  <img src="https://img.shields.io/badge/FPGA%20verif-no%20start-wheat?style=flat-square"> <img src="https://img.shields.io/badge/Tapeout%20test-no%20start-wheat?style=flat-square"> |
+IPs list and developemnt state:
+| IP       | MILESTONE |
+| :---:    | :---:     |
+| [archinfo](https://github.com/oscc-ip/archinfo) | <img src="https://img.shields.io/badge/RTL%20frozen-done-green?style=flat-square"> <img src="https://img.shields.io/badge/SMOKE%20test-done-green?style=flat-square"> <img src="https://img.shields.io/badge/UVM%20verif-no%20start-wheat?style=flat-square"> <img src="https://img.shields.io/badge/FPGA%20integ-no%20start-wheat?style=flat-square"> <img src="https://img.shields.io/badge/TAPEOUT%20test-no%20start-wheat?style=flat-square"> |
 
 
 <details>
