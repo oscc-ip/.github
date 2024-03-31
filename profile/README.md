@@ -37,7 +37,7 @@ OSCC IP Project contains a bundle of IPs which aim to improve development experi
 IPs list and developemnt state:
 | IP       | MILESTONE |
 | :---:    | :---:     |
-| [archinfo](https://github.com/oscc-ip/archinfo) | <img src="https://img.shields.io/badge/RTL%20frozen-done-green?style=flat-square"> <img src="https://img.shields.io/badge/SMOKE%20test-done-green?style=flat-square"> <img src="https://img.shields.io/badge/UVM%20verif-no%20start-wheat?style=flat-square"> <img src="https://img.shields.io/badge/FPGA%20integ-no%20start-wheat?style=flat-square"> <img src="https://img.shields.io/badge/TAPEOUT%20test-no%20start-wheat?style=flat-square"> |
+| [archinfo](https://github.com/oscc-ip/archinfo) | <img src="https://img.shields.io/badge/SPEC%20complete-done-green?style=flat-square"> <img src="https://img.shields.io/badge/RTL%20frozen-done-green?style=flat-square"> <img src="https://img.shields.io/badge/SMOKE%20test-done-green?style=flat-square"> <img src="https://img.shields.io/badge/UVM%20verif-no%20start-wheat?style=flat-square"> <img src="https://img.shields.io/badge/FPGA%20integ-no%20start-wheat?style=flat-square"> <img src="https://img.shields.io/badge/TAPEOUT%20test-no%20start-wheat?style=flat-square"> |
 
 
 <details>
