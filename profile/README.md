@@ -36,6 +36,12 @@ The IPs List:
 | Communication | usb, ethernet, pcie |
 | Application | crc, aes, sha, rsa, rng, foc, cnn, isp |
 
+Developemnt State:
+| IP       | STATE |
+| :---:    | :---: |
+| ARCHINFO |  <img src="https://img.shields.io/badge/RTL%20dev-done-green?style=flat-square"> <img src="https://img.shields.io/badge/VCS%20sim-done-green?style=flat-square">  <img src="https://img.shields.io/badge/FPGA%20verif-no%20start-wheat?style=flat-square"> <img src="https://img.shields.io/badge/Tapeout%20test-no%20start-wheat?style=flat-square"> |
+
+
 <details>
   <summary>More Info</summary>
 
