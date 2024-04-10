@@ -19,6 +19,7 @@
     </a>
 </p>
 
+
 ## Hi, OSCC IP Project 👋
 
 OSCC IP Project contains a bundle of IPs which aim to improve development experience of processor and SoC design. Now it mainly focus on frontend and verification field. We hope it can be integrated by other components to build a common workflow for agile hardware development from frontend to backend one day.
@@ -38,7 +39,7 @@ IPs list and development state:
 | IP       | MILESTONE |
 | :---:    | :---:     |
 | [archinfo](https://github.com/oscc-ip/archinfo) | <img src="https://img.shields.io/badge/SPEC%20complete-done-green?style=flat-square"> <img src="https://img.shields.io/badge/RTL%20frozen-done-green?style=flat-square"> <img src="https://img.shields.io/badge/SMOKE%20test-done-green?style=flat-square"> <img src="https://img.shields.io/badge/UVM%20verif-no%20start-wheat?style=flat-square"> <img src="https://img.shields.io/badge/FUNCTIONAL%20coverage-0-green?style=flat-square"> <img src="https://img.shields.io/badge/CODE%20coverage-0-green?style=flat-square"> <img src="https://img.shields.io/badge/SoC%20integ-no%20start-wheat?style=flat-square"> <img src="https://img.shields.io/badge/FPGA%20emu-no%20start-wheat?style=flat-square"> <img src="https://img.shields.io/badge/TAPEOUT%20test-no%20start-wheat?style=flat-square"> |
-
+| [rng](https://github.com/oscc-ip/rng) | <img src="https://img.shields.io/badge/SPEC%20complete-done-green?style=flat-square"> <img src="https://img.shields.io/badge/RTL%20frozen-done-green?style=flat-square"> <img src="https://img.shields.io/badge/SMOKE%20test-done-green?style=flat-square"> <img src="https://img.shields.io/badge/UVM%20verif-no%20start-wheat?style=flat-square"> <img src="https://img.shields.io/badge/FUNCTIONAL%20coverage-0-green?style=flat-square"> <img src="https://img.shields.io/badge/CODE%20coverage-0-green?style=flat-square"> <img src="https://img.shields.io/badge/SoC%20integ-no%20start-wheat?style=flat-square"> <img src="https://img.shields.io/badge/FPGA%20emu-no%20start-wheat?style=flat-square"> <img src="https://img.shields.io/badge/TAPEOUT%20test-no%20start-wheat?style=flat-square"> |
 
 <details>
   <summary>More Info</summary>
