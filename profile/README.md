@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center">OSCC IP: A series of Verified HDL IP with Accurate-cycle and Event-driven Model</h2>
+    <h2 align="center">clusterIP: A series of Verified HDL IP with Accurate-cycle and Event-driven Model</h2>
 </p>
 <p align="center">
     <a href="https://github.com/oscc-ip/template/blob/main/LICENSE">
@@ -20,9 +20,9 @@
 </p>
 
 
-## Hi, OSCC IP Project 👋
+## Hi, clusterIP Project 👋
 
-OSCC IP Project contains a bundle of IPs which aim to improve development experience of processor and SoC design. Now it mainly focus on frontend and verification field. We hope it can be integrated by other components to build a common workflow for agile hardware development from frontend to backend one day.
+clusterIP Project contains a bundle of IPs which aim to improve development experience of processor and SoC design. Now it mainly focus on frontend and verification field. We hope it can be integrated by other components to build a common workflow for agile hardware development from frontend to backend one day.
 
 ## Motivation
 
@@ -90,11 +90,11 @@ Refer to the [template repo](https://github.com/oscc-ip/template/blob/main). If 
 refer to the [style.md](https://github.com/oscc-ip/template/blob/main/style.md).
 
 ## Contribution
-If you want to contribute to this project, be sure to review the [guidelines](https://github.com/oscc-ip/template/blob/main/CONTRIBUTING.md). This is an open project and contributions and collaborations are always welcome!! This project adheres to OSCC IP's [code_of_conduct](https://github.com/oscc-ip/template/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+If you want to contribute to this project, be sure to review the [guidelines](https://github.com/oscc-ip/template/blob/main/CONTRIBUTING.md). This is an open project and contributions and collaborations are always welcome!! This project adheres to clusterIP's [code_of_conduct](https://github.com/oscc-ip/template/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
 we use GitHub issues for tracking requests and bugs, so please direct specific questions to [issues panel](https://github.com/oscc-ip/.github/issues).
 
-The OSCC IP project strives to abide by generally accepted best practices in open-source software development, you can issue bugs, pull requests, new features and modification suggestions freely. Your feedbacks could help us ensure a bright future for this project. We value and treasure every issue or contribution, big or small. 😄
+The clusterIP project strives to abide by generally accepted best practices in open-source software development, you can issue bugs, pull requests, new features and modification suggestions freely. Your feedbacks could help us ensure a bright future for this project. We value and treasure every issue or contribution, big or small. 😄
 
 ## License
 All of the IPs codes are redistributed or released under the OSI Approved LICENSE [MulanPSL2](https://opensource.org/license/mulanpsl-2-0/).
